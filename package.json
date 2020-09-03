@@ -5,7 +5,7 @@
   "dependencies": {
     "google-lighthouse-puppeteer": "^1.0.0",
     "lighthouse": "^5.6.0",
-    "puppeteer": "^1.6.2"
+    "puppeteer": "^1.13.0"
   },
   "devDependencies": {
     "eslint-plugin-mocha": "^4.11.0",
